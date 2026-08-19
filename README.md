@@ -580,6 +580,8 @@ Planned documentation includes:
 - Testing and validation
 - Project limitations
 - Development evidence
+- [ESP32 Firmware](src/smartfarm.ino)
+- [ESP32 Firmware Documentation](src/README.md)
 
 ---
 
