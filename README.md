@@ -558,6 +558,14 @@ Integrated Smart Farm Platform
 ```
 
 ---
+## Project Demo
+
+A demonstration of the Smart Farm AI prototype, including the ESP32-based automation system and ESP32-CAM plant monitoring workflow.
+
+[![Smart Farm AI — Project Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=ABC123XYZ)
+
+> Click the image above to watch the project demonstration on YouTube.
+---
 
 ## Project Documentation
 
